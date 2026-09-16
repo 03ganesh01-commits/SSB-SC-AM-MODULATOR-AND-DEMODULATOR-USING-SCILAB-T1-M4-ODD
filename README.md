@@ -76,8 +76,3 @@ Plot the message signal, carrier signal, SSBSC modulated signal, and the recover
 
 
 
----
-
-## MODEL GRAPH
-
-
